@@ -16,7 +16,9 @@
         "github.copilot.chat.visible": false,
         "github.copilot.inlineSuggest.enable": false,
         "workbench.panel.defaultLocation": "bottom",
-        "workbench.view.copilot.chat.enabled": false
+        "workbench.view.copilot.chat.enabled": false,
+        "workbench.activityBar.visible": true,
+        "workbench.view.extension.copilot-chat-view.visible": false
       }
     }
   },
