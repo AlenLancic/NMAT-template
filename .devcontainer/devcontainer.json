@@ -14,7 +14,9 @@
         "python.defaultInterpreterPath": "/usr/local/bin/python",
         "github.copilot.editor.suggestions.enabled": false,
         "github.copilot.chat.visible": false,
-        "github.copilot.inlineSuggest.enable": false
+        "github.copilot.inlineSuggest.enable": false,
+        "workbench.panel.defaultLocation": "bottom",
+        "workbench.view.copilot.chat.enabled": false
       }
     }
   },
