@@ -8,7 +8,8 @@
     "vscode": {
       "extensions": [
         "ms-python.python",
-        "ms-toolsai.jupyter"
+        "ms-toolsai.jupyter",
+        "-github.copilot-chat"
       ],
       "settings": {
         "python.defaultInterpreterPath": "/usr/local/bin/python",
@@ -18,7 +19,8 @@
         "workbench.panel.defaultLocation": "bottom",
         "workbench.view.copilot.chat.enabled": false,
         "workbench.activityBar.visible": true,
-        "workbench.view.extension.copilot-chat-view.visible": false
+        "workbench.view.extension.copilot-chat-view.visible": false,
+        "chat.disableAIFeatures": true
       }
     }
   },
