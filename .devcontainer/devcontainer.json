@@ -11,7 +11,7 @@
         "ms-toolsai.jupyter"
       ],
       "settings": {
-        "python.defaultInterpreterPath": "/usr/local/bin/python"
+        "python.defaultInterpreterPath": "/usr/local/bin/python",
         "github.copilot.editor.suggestions.enabled": false,
         "github.copilot.chat.visible": false,
         "github.copilot.inlineSuggest.enable": false
